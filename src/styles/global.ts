@@ -4,7 +4,7 @@ const GlobalStyles = createGlobalStyle`
   :root {
     --highlight: #e20e8d;
     --background: #030518;
-    --white: #eeeeee;
+    --white: #fefefe;
 
     --container: 100rem;
 
